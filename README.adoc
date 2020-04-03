@@ -1,0 +1,12 @@
+# XYZ Reader Starter Code - Udacity Android Nanodegree
+
+This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+
+## Installation
+
+Please import the project in Android Studio. 
+
+## Screenshots
+![Main Screen](https://github.com/angad305/xyz-reader-code-master-udacity/blob/master/Screenshots/Google%20Pixel%203%201.jpg)
+![Detail Screen with Collapsing Toolbar](https://github.com/angad305/xyz-reader-code-master-udacity/blob/master/Screenshots/Google%20Pixel%203%202.jpg)
+![AppBar with Article Title](https://github.com/angad305/xyz-reader-code-master-udacity/blob/master/Screenshots/Google%20Pixel%203%203.jpg)
